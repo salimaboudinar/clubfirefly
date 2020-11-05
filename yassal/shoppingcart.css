@@ -1,0 +1,50 @@
+body {
+  background-color:black;
+}
+#board{
+  background:rgb(95, 6, 6);
+  width:50%;
+  border-radius:20px;
+  margin: 0 auto;
+  height: 80px;
+}
+#info{
+  color:white;
+  text-align:center;
+  padding : 10px;
+}
+h4 {
+  padding:0px;
+}
+#circuit1{
+  background-color: #edeabd;
+  min-height:100px;
+  margin-bottom:5px;
+  position:relative;
+}
+#circuit2{
+  background-color: #edeabd;
+  min-height:100px;
+  position:relative;
+}
+#horse1{
+  position:absolute;
+  left: -40px;
+}
+#horse2{
+  position:absolute;
+  left: -40px;
+}
+#startButton{
+  margin:20px 0px;
+  padding:20px 20px;
+  background: lightgreen;
+  border-style:none;
+  border-radius:50px;
+}
+#controls{
+  margin-top:10px;
+}
+.buy{
+  margin-left: 393px;
+}

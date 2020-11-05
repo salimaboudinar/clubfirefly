@@ -1,0 +1,449 @@
+body{
+    
+background-color: black!important;
+}
+.navbar{
+    display: flex;
+    background-color: black;
+    position: sticky ;
+    
+    
+}
+.ul{
+    display: flex;
+    PADDING-TOP: 7px;
+       
+}
+
+section{
+    background-color: black;
+}
+.titre{
+        padding-top: 10px;
+        padding-right: 686px;
+
+ 
+    color: #c7b198;
+}
+h2{
+     
+
+ font-size: small;
+}
+.w-100 {
+    width: 99%!important;
+    height: 560px;
+    padding-right: 145px;
+    padding-left: 145px;
+    padding-top: 28px;
+}
+a{
+    
+    text-decoration: none;
+   
+    color:#c7b198!important;
+    border-left: 1px solid #899590;
+  
+   
+    padding-left: 2rem;
+   
+    margin-left: 2rem;
+
+}
+ a:hover {
+
+   color: #b5bcc0!important;
+   font-weight: bold;
+   
+   
+  }
+ul{
+    list-style: none;
+    padding-left: 450px;
+   
+}
+li{
+   
+    font-size: 18px;
+    color:white!important;
+}
+.logo{
+    width: 188px;
+    height: 81px;
+    padding-left: 84px;
+    padding-right: 39px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+.paragraphe{
+    margin-right: 300px;
+   
+}
+.carousel-control-prev{
+    left: 200px;
+}
+  
+.h1{
+    text-align: center;
+    padding-top: 50px;
+    font-family: auto;
+    color:#c7b198;
+}
+.images{
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 52px;
+}
+.justifycontent{
+    flex-direction: row;
+}
+.parah{
+    padding-top: 40px;
+    color: white;
+    font-size: 20px;
+    margin-left: 267px;
+    margin-right: 359px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.h1title{
+    padding-left: 620px;
+    padding-top: 50px;
+    font-family: auto;
+    color: #c7b198;
+}
+.undertitle{
+    margin-top: 25px;
+    margin-bottom: 4rem;
+    color: #c7b198;
+    text-align: center;
+}
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 52px;
+}
+.conteneur {
+    margin:1em;
+    width:14.625em;
+  }
+  .conteneur div p {
+    margin: 0;
+    padding: 0.5em;
+    background: #c7b198;
+  }
+  .conteneur div {
+    display: none;
+    border-style: solid;
+    border-width: 0 1px;
+    border-color: black;
+    padding: 1em;
+    background: #c7b198;
+    text-align: center
+  }
+  .conteneur:hover div {
+    position: relative;
+    display: block;
+    margin-top: -5px;
+  }
+  .conteneur img {
+    display: block;
+  }
+  .imagess{
+      background-color: #292525;
+      padding-left:200px ;
+     
+  }
+  .gif{
+   
+    
+    padding-left: 200px;
+  }
+  .movement{
+      display: flex;
+      padding: 20px;
+      color:#c7b198 ;
+  }
+  .movement1{
+    padding-right: 76px;
+    padding-left: 200px;
+  }
+  .movement2{
+    padding-right: 83px;
+  }
+ .movement3{
+    padding-right: 91px;
+  }
+  .movement4{
+    padding-right: 62px;
+}
+
+.englishriding{
+    display: flex;
+    border-bottom: 1px solid #899590;
+}
+.imgs:hover{
+  transition: box-shadow 350ms ease;
+  box-shadow: 5px 5px 5px rgb(80, 72, 72);
+   
+}
+.hover:hover{
+text-decoration: underline;
+}
+.p{
+    border-bottom: 1px solid #899590;
+}
+.parah{
+    text-align: center;
+}
+
+.bac{
+    height: 600px;
+    width: 1200px;
+    padding-left: 180px;
+}
+footer{
+   
+    color: white;
+    padding-left: 200px;
+    padding-top: 64px;
+}
+.text{
+    position: absolute;
+   ba
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 30px;
+}
+.title7{
+    font-size:40px;
+    padding-bottom: 20px;
+    padding-left: 150px;
+}
+.title3{
+    font-size:40px;
+    padding-bottom: 20px;
+    padding-left: 111px;
+}
+
+label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+.svg{
+    height: 70px;
+    width: 70px;
+}
+
+label {
+    margin: .4rem 0;
+}
+
+.socials{
+    padding-left: 244px;
+    padding-top: 48px;
+    padding-bottom: 52px;
+}
+.gmail{
+    padding-bottom: 40px;
+    padding-left: 22px;
+    margin-left: 622px;
+    height: 20px;
+    height: 21px;
+}
+.email{
+    padding-left: 170px;
+}
+.title4{
+    padding-left: 90px;
+}
+footer{
+    background-color: #292525;
+    display: flex;
+}
+.footer{
+    background-color: #292525;
+   
+}
+.lieu{
+    padding-top: 50px;
+}
+.shopping-cart {
+    width: 750px;
+    height: 423px;
+    margin: 80px auto;
+    background: #FFFFFF;
+    box-shadow: 1px 2px 3px 0px rgba(0,0,0,0.10);
+    border-radius: 6px;
+   
+    display: flex;
+    flex-direction: column;
+  }
+  .title {
+    height: 60px;
+    border-bottom: 1px solid #E1E8EE;
+    padding: 20px 30px;
+    color: #5E6977;
+    font-size: 18px;
+    font-weight: 400;
+  }
+   
+  .item {
+    padding: 5px 19px;
+    height: 120px;
+    display: flex;
+  }
+   
+  .item:nth-child(3) {
+    border-top:  1px solid #E1E8EE;
+    border-bottom:  1px solid #E1E8EE;
+  }
+  .buttons {
+    position: relative;
+    padding-top: 30px;
+    margin-right: 60px;
+  }
+  .delete-btn,
+  .like-btn {
+    display: inline-block;
+    Cursor: pointer;
+  }
+  .delete-btn {
+    display: inline-block;
+      cursor: pointer;
+      width: 18px;
+      height: 17px;
+      background: url(" ") no-repeat center;
+      margin-right: 20px;
+  }
+  }
+   
+  .like-btn {
+    position: absolute;
+    top: 9px;
+    left: 15px;
+    background: url("https://designmodo.com/demo/shopping-cart/twitter-heart.png");
+    width: 60px;
+    height: 60px;
+    background-size: 2900%;
+    background-repeat: no-repeat;
+    cursor: pointer;
+  
+  }
+  
+  .heart {
+    fill: red;
+    
+  }
+  
+  
+  
+  
+  
+  .is-active {
+    animation-name: animate;
+    animation-duration: .8s;
+    animation-iteration-count: 1;
+    animation-timing-function: steps(28);
+    animation-fill-mode: forwards;
+  }
+   
+  @keyframes animate {
+    0%   { background-position: left;  }
+    50%  { background-position: right; }
+    100% { background-position: right; }
+  }
+  .image {
+    margin-right: 50px;
+  }
+   
+  Let’s add some basic style to  product name and description.
+  .description {
+    padding-top: 10px;
+    margin-right: 60px;
+    width: 115px;
+  }
+   
+  .description span {
+    display: block;
+    font-size: 14px;
+    color: #43484D;
+    font-weight: 400;
+  }
+   
+  .description span:first-child {
+    margin-bottom: 5px;
+  }
+  .description span:last-child {
+    font-weight: 300;
+    margin-top: 8px;
+    color: #86939E;
+  }
+  .quantity {
+    padding-top: 38px;
+      margin-right: 65px;
+      margin-left: 24px;
+      padding-left: 16px;
+  }
+  .quantity input {
+    -webkit-appearance: none;
+    border: none;
+    text-align: center;
+    width: 32px;
+    font-size: 16px;
+    color: #43484D;
+    font-weight: 300;
+  }
+   
+  button[class*=btn] {
+    width: 30px;
+    height: 30px;
+    background-color: #E1E8EE;
+    border-radius: 6px;
+    border: none;
+    cursor: pointer;
+  }
+  .minus-btn img {
+    margin-bottom: 3px;
+    width: 10px!important;
+  }
+  .plus-btn img {
+    margin-top: 2px;
+  }
+   
+  button:focus,
+  input:focus {
+    outline:0;
+  }
+  @media (max-width: 800px) {
+    .shopping-cart {
+      width: 100%;
+      height: auto;
+      overflow: hidden;
+    }
+    .item {
+      height: auto;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    .image img {
+      width: 50%;
+    }
+    .image,
+    .quantity,
+    .description {
+      width: 100%;
+      text-align: center;
+      margin: 6px 0;
+    }
+    .buttons {
+      margin-right: 20px;
+    }
+  }
+  .minus-btn img {
+    margin-bottom: 3px;
+    width: 24px;
+  }
+  .total{
+    padding-left: 500px;
+  }
+  
